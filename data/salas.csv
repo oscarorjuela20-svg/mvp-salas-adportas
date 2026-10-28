@@ -1,0 +1,7 @@
+id,nombre,piso,capacidad,tablero,pantalla
+S101,Sala 101,1,4,1,0
+S102,Sala 102,1,6,1,1
+S103,Sala 103,1,2,0,0
+S201,Sala 201,2,4,1,0
+S202,Sala 202,2,8,1,1
+S203,Sala 203,2,6,0,1
